@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Ratata aka ラッタッタ](https://github.com/Ratata aka ラッタッタ)
+* Keyboard Maintainer: [Ratata](https://github.com/ratata-ratata)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
