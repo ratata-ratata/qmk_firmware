@@ -13,15 +13,15 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["GP3", "GP7", "GP8", "GP9", "GP10", "GP11" "GP12" "GP13" "GP14" "GP15" "GP26"],
+        "cols": ["GP3", "GP7", "GP8", "GP9", "GP10", "GP11", "GP12", "GP13", "GP14", "GP15", "GP26"],
         "rows": ["GP0", "GP1", "GP2", "GP6", "GP27", "GP28"]
     },
     "processor": "RP2040",
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0x0050",
+        "vid": "0xFE5D"
     },
     "layouts": {
         "LAYOUT": {
