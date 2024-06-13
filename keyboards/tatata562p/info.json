@@ -29,7 +29,7 @@
     "split": {
         "enabled": true,
         "transport": {
-            "protocol": "serial_usart"
+            "protocol": "usart"
         },
         "main": "left",
         "soft_serial_pin": "GP11"

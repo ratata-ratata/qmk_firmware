@@ -1,6 +1,6 @@
 {
     "manufacturer": "Ratata",
-    "keyboard_name": "dekopon",
+    "keyboard_name": "Dekopon",
     "maintainer": "Ratata",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
@@ -22,8 +22,8 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x00F3",
-        "vid": "0xFEF3"
+        "pid": "0x0008",
+        "vid": "0xFEF5"
     }, 
 
     "split": {
