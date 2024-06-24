@@ -1,10 +1,10 @@
-# nafuda01
+# WASD Keychain
 
 ![WASD Keychain](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Ratata aka ラッタッタ](https://github.com/ratata-ratata)
+* Keyboard Maintainer: [Ratata](https://github.com/ratata-ratata)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
